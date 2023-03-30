@@ -2,7 +2,7 @@
 
 ### To play:
 
-Cloning into directory:
+Clone into directory:
 
 1. Copy the link found on the top right of the repo window
 2. In VScode or any local terminal `cd` into root directory of choice
