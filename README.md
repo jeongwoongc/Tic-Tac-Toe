@@ -14,3 +14,5 @@ Install Dependencies:
 - Numpy: `pip install numpy`
 
 ### Enjoy!
+
+![image](https://user-images.githubusercontent.com/30781868/229377150-7c580e86-78bc-4085-a20a-9e89a0a8321f.png)
